@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Spin & Win Bengali",
+  "description": "একটি আকর্ষণীয় লকি স্পিন হুইল গেম - স্পিন করুন এবং উপহার জিতুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
